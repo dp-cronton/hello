@@ -19,7 +19,7 @@ namespace hello
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Greetings fellow earth dwelling biped.");
+            MessageBox.Show("Hello");
         }
     }
 }
